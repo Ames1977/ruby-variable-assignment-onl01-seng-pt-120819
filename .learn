@@ -1,5 +1,6 @@
 tags:
   - variable assignment
+  greeting = "Hello World"
   - variables
 languages:
   - ruby
